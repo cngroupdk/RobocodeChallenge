@@ -1,15 +1,14 @@
 # CN GROUP Robocode Challenge 
 
-![Teser](./docu/robocode.png)
-
 ## Jak začít:
-### JAVA - Pro začátečníky bez IDE:
- * Stáhnout robocode (doporučeno pro zařátečníky bez IDE): [download link](https://robowiki.net/wiki/Robocode/Download_And_Install)
+### Java - bez IDE (doporučeno pro zařátečníky bez vývojového prostředí):
+ * Stáhnout a nainstalovat Robocode: [download link](https://robowiki.net/wiki/Robocode/Download_And_Install)
  * Vyvýjet ve vestavěném editoru: [návod](https://robowiki.net/wiki/Robocode/My_First_Robot)
-### JAVA - pro uživatele IntelliJ:  
+### Java - pro uživatele IntelliJ IDEA:  
  * Stačí pouze forknout/naklonovat tento repozitář a otevřít projekt. Detailnější návod zde:
  [IntelliJ IDEA návod](Java-intellij-instalation-guide.md)
 ### C#:
+ * Stáhnout a nainstalovat Robocode pro .NET (verze 19.3.3): [download link](https://robowiki.net/wiki/Robocode/Download_And_Install)
  * Návod pro programátory v C#: [návod](https://robowiki.net/wiki/Robocode/.NET/Create_a_.NET_robot_with_Visual_Studio)
 
 
@@ -19,7 +18,7 @@ Ve 4. streamu naší Robocode Challenge (13. 5. 2020) pustíme všechny odevzdan
 Turnaj se odehraje s následujícími parametry podle počtu účastníků.
 
 ### Parametry:
-| Max. počet účastníků | Width | Height | Rounds | Gun Cooling Rate |  | Neaktivní čas | Sentry Border Size |
+| Max. počet účastníků | Width | Height | Rounds | Gun Cooling Rate | Neaktivní čas | Sentry Border Size |
 |---|---|---|---|---|---|---|---|
 | 10 | 800 | 600 | 5 | 0.1 | 450 | 100 |
 | 20 | 1200 | 1200 | 5 | 0.1 | 450 | 100 |
