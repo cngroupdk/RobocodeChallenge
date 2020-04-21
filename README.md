@@ -18,8 +18,8 @@ Ve 4. streamu naší Robocode Challenge (13. 5. 2020) pustíme všechny odevzdan
 Turnaj se odehraje s následujícími parametry podle počtu účastníků.
 
 ### Parametry:
-| Max. počet účastníků | Width | Height | Rounds | Gun Cooling Rate | Neaktivní čas | Sentry Border Size |
-|---|---|---|---|---|---|---|---|
+| Max. number of robots | Width (px) | Height (px) | Rounds | Gun Cooling Rate | Inactivity time | Sentry Border Size |
+|---|---|---|---|---|---|---|
 | 10 | 800 | 600 | 5 | 0.1 | 450 | 100 |
 | 20 | 1200 | 1200 | 5 | 0.1 | 450 | 100 |
 | 20+ | 2000 | 2000 | 5 | 0.1 | 450 | 100 |
